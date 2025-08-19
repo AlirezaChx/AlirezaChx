@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlirezaChx
-- 👀 I’m interested in Game Developing and Creating 3D Arts
-- 🌱 I’m currently learning Blender And Unity Engine
-- 💞️ I’m looking to collaborate on Game Developing Projects And 3D modeling 
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web Developing Projects 
 - 📫 How to reach me ... : Linkedin: (https://www.linkedin.com/in/alirezachoobakzan/)
 
 <!---
